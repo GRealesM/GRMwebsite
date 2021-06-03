@@ -76,4 +76,6 @@ highlight_name: false
 
 I'm a Research associate (aka. Postdoc) at [Chris Wallace's](https://chr1swallace.github.io) group at Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), where I develop and apply statistical techniques to better understand the genetic basis of immune-mediated diseases, and how they're connected, using data from genome-wide association studies (GWAS). I am also interested in population genetics and evolution, and in exploiting computers' capabilities to answer biological questions.
 
+**NOTE**: This site is currently under construction, so please bear with me until I finish it! :) 
+
 
