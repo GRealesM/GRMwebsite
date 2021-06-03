@@ -43,18 +43,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:gr440@cam.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GRealesM
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=yPn4bysAAAAJ
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/GRealesM
+  link: https://orcid.org/0000-0001-9993-3916
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/guillermo-reales-monteagudo-1989b752/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GRealesM
+- icon: github
+  icon_pack: fab
+  link: https://github.com/GRealesM
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
